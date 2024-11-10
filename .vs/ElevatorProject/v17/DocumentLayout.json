@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|c:\\users\\lenovo\\desktop\\elevatorproject\\liftdemo_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|c:\\users\\lenovo\\desktop\\elevatorproject\\liftdemo_a\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|c:\\users\\lenovo\\desktop\\elevatorproject\\liftdemo_a\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorClosedState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\DoorClosedState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorOpenState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\DoorOpenState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\IDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|c:\\users\\lenovo\\desktop\\elevatorproject\\liftdemo_a\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\IElevatorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|c:\\users\\lenovo\\desktop\\elevatorproject\\liftdemo_a\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\IElevatorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\Elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:LiftDemo_A\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\liftdemo_a\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{369B0FAC-1FE1-4B6D-AB79-A3C26F0C825E}|LiftDemo_A\\ElevatorProject.csproj|solutionrelative:liftdemo_a\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Program.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Program.cs",
+              "RelativeToolTip": "LiftDemo_A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:16:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovingUpState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingUpState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MovingUpState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingUpState.cs",
+              "RelativeToolTip": "LiftDemo_A\\MovingUpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:00:23.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IdleState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\IdleState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IdleState.cs",
+              "RelativeToolTip": "LiftDemo_A\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:01:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorClosedState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorClosedState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\DoorClosedState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorClosedState.cs",
+              "RelativeToolTip": "LiftDemo_A\\DoorClosedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:46:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorOpenState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorOpenState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\DoorOpenState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DoorOpenState.cs",
+              "RelativeToolTip": "LiftDemo_A\\DoorOpenState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:46:37.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDoorState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IDoorState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\IDoorState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IDoorState.cs",
+              "RelativeToolTip": "LiftDemo_A\\IDoorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:53:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\Elevator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs",
+              "RelativeToolTip": "LiftDemo_A\\Elevator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:15:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IdleState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\IdleState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IdleState.cs",
+              "RelativeToolTip": "LiftDemo_A\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:25:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovingDownState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MovingDownState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs",
+              "RelativeToolTip": "LiftDemo_A\\MovingDownState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:12:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IElevatorState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\IElevatorState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs",
+              "RelativeToolTip": "LiftDemo_A\\IElevatorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:15:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovingUpState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingUpState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MovingUpState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingUpState.cs",
+              "RelativeToolTip": "LiftDemo_A\\MovingUpState.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:25:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs",
+              "RelativeToolTip": "LiftDemo_A\\DBContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:15:04.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IElevatorState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\IElevatorState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\IElevatorState.cs",
+              "RelativeToolTip": "LiftDemo_A\\IElevatorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:57:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Program.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Program.cs",
+              "RelativeToolTip": "LiftDemo_A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:00:46.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\Elevator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\Elevator.cs",
+              "RelativeToolTip": "LiftDemo_A\\Elevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:59:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\DBContext.cs",
+              "RelativeToolTip": "LiftDemo_A\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:47:24.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.Designer.cs",
+              "RelativeToolTip": "LiftDemo_A\\MainForm.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAuwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:52:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\App.config",
+              "RelativeDocumentMoniker": "LiftDemo_A\\App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\App.config",
+              "RelativeToolTip": "LiftDemo_A\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T05:25:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.cs",
+              "RelativeToolTip": "LiftDemo_A\\MainForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:05:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovingDownState.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MovingDownState.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MovingDownState.cs",
+              "RelativeToolTip": "LiftDemo_A\\MovingDownState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:00:33.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ElevatorProject\\LiftDemo_A\\MainForm.cs",
+              "RelativeDocumentMoniker": "LiftDemo_A\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\ElevatorProject\\ElevatorMain\\ElevatorProject\\LiftDemo_A\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\ElevatorProject\\ElevatorMain\\ElevatorProject\\LiftDemo_A\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:34:34.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
