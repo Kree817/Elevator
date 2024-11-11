@@ -226,7 +226,32 @@ namespace ElevatorProject
 
         private void DeleteButton_Click(object sender, EventArgs e)
         {
+            DialogResult result = MessageBox.Show("Are you sure you want to delete all logs?", "Confirm Deletion", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
+            if (result == DialogResult.Yes)
+            {
+                dbContext.DeleteAllLogs();
+                dt.Rows.Clear(); // Clear the DataTable
+                dataGridViewLogs.Rows.Clear(); // Clear the DataGridView
+                logEvents("All logs deleted.");
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (dataGridViewLogs.SelectedRows.Count > 0)
+            {
+                DataGridViewRow selectedRow = dataGridViewLogs.SelectedRows[0];
+                DateTime logTime = DateTime.Parse(selectedRow.Cells["Time"].Value.ToString());
+
+                dbContext.DeleteSelectedLog(logTime);
+                dataGridViewLogs.Rows.RemoveAt(selectedRow.Index); // Remove the selected row from DataGridView
+                logEvents("Selected log deleted.");
+            }
+            else
+            {
+                MessageBox.Show("Please select a log to delete.", "No Selection", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }

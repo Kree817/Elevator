@@ -53,7 +53,8 @@
             this.button5 = new System.Windows.Forms.Button();
             this.buttonAlarm = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.DeleteButton = new System.Windows.Forms.Button();
+            this.DeleteAllButton = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewLogs)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.doorRight_1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.doorLeft_1)).BeginInit();
@@ -267,22 +268,38 @@
             this.panel1.Size = new System.Drawing.Size(426, 232);
             this.panel1.TabIndex = 20;
             // 
-            // DeleteButton
+            // DeleteAllButton
             // 
-            this.DeleteButton.Location = new System.Drawing.Point(691, 441);
-            this.DeleteButton.Name = "DeleteButton";
-            this.DeleteButton.Size = new System.Drawing.Size(75, 23);
-            this.DeleteButton.TabIndex = 21;
-            this.DeleteButton.Text = "Delete";
-            this.DeleteButton.UseVisualStyleBackColor = true;
-            this.DeleteButton.Click += new System.EventHandler(this.DeleteButton_Click);
+            this.DeleteAllButton.BackColor = System.Drawing.Color.Crimson;
+            this.DeleteAllButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DeleteAllButton.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.DeleteAllButton.Location = new System.Drawing.Point(910, 446);
+            this.DeleteAllButton.Name = "DeleteAllButton";
+            this.DeleteAllButton.Size = new System.Drawing.Size(207, 45);
+            this.DeleteAllButton.TabIndex = 21;
+            this.DeleteAllButton.Text = "Delete All";
+            this.DeleteAllButton.UseVisualStyleBackColor = false;
+            this.DeleteAllButton.Click += new System.EventHandler(this.DeleteButton_Click);
+            // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.Gold;
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Location = new System.Drawing.Point(691, 446);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(200, 45);
+            this.button6.TabIndex = 22;
+            this.button6.Text = "Delete";
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1124, 565);
-            this.Controls.Add(this.DeleteButton);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.DeleteAllButton);
             this.Controls.Add(this.dataGridViewLogs);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button5);
@@ -336,7 +353,8 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button DeleteButton;
+        private System.Windows.Forms.Button DeleteAllButton;
+        private System.Windows.Forms.Button button6;
     }
 }
 

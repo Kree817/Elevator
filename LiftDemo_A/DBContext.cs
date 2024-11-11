@@ -72,6 +72,52 @@ namespace ElevatorProject
 			}
 
 		}
+        public void DeleteAllLogs()
+        {
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    string query = "DELETE FROM Log";
 
-	}
+                    using (SqlCommand cmd = new SqlCommand(query, conn))
+                    {
+                        conn.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+
+                MessageBox.Show("All logs have been deleted successfully.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error deleting all logs: " + ex.Message);
+            }
+        }
+
+        public void DeleteSelectedLog(DateTime logTime)
+        {
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    string query = "DELETE FROM Log WHERE LogTime = @LogTime";
+
+                    using (SqlCommand cmd = new SqlCommand(query, conn))
+                    {
+                        cmd.Parameters.AddWithValue("@LogTime", logTime);
+
+                        conn.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+
+                MessageBox.Show("Selected log has been deleted successfully.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error deleting selected log: " + ex.Message);
+            }
+        }
+    }
 }

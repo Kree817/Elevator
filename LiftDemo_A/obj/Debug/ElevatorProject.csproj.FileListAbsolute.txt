@@ -8,3 +8,13 @@ C:\Users\Lenovo\Downloads\ElevatorProject\ElevatorMain\ElevatorProject\LiftDemo_
 C:\Users\Lenovo\Downloads\ElevatorProject\ElevatorMain\ElevatorProject\LiftDemo_A\bin\Debug\LiftDemo_A.exe
 C:\Users\Lenovo\Downloads\ElevatorProject\ElevatorMain\ElevatorProject\LiftDemo_A\bin\Debug\LiftDemo_A.pdb
 C:\Users\Lenovo\Downloads\ElevatorProject\ElevatorMain\ElevatorProject\LiftDemo_A\obj\Debug\ElevatorProject.MainForm.resources
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\bin\Debug\LiftDemo_A.exe.config
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\bin\Debug\LiftDemo_A.exe
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\bin\Debug\LiftDemo_A.pdb
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\ElevatorProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\ElevatorProject.MainForm.resources
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\LiftDemo_A.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\ElevatorProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\ElevatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\LiftDemo_A.exe
+C:\Users\Lenovo\Desktop\ElevatorProject\LiftDemo_A\obj\Debug\LiftDemo_A.pdb
