@@ -230,7 +230,7 @@ namespace ElevatorProject
 
             if (result == DialogResult.Yes)
             {
-                dbContext.DeleteAllLogs();
+                dbContext.DeleteAllLogs();3+r
                 dt.Rows.Clear(); // Clear the DataTable
                 dataGridViewLogs.Rows.Clear(); // Clear the DataGridView
                 logEvents("All logs deleted.");
